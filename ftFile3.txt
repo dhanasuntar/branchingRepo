@@ -1,0 +1,5 @@
+Feature Release 1 continue after merge with dev branch
+
+
+
+new line
